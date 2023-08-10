@@ -1,0 +1,13 @@
+* {
+    margin: 18px;
+}
+
+button {
+    margin-top: 8px;
+}
+
+form {
+    padding: 15px;
+    margin: 6px 6px 0 0;
+    background-color: rgb(221, 212, 212);
+}
